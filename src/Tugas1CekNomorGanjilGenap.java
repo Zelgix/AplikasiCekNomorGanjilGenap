@@ -36,6 +36,7 @@ public class Tugas1CekNomorGanjilGenap extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setBackground(new java.awt.Color(0, 153, 153));
 
         jLabel2.setFont(new java.awt.Font("Segoe UI Variable", 1, 14)); // NOI18N
         jLabel2.setText("Masukkan Angka");
